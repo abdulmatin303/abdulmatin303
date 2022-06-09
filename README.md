@@ -4,9 +4,9 @@
 #### Web Developer
 
 
-I am Abdul Matin Rafi, A tech enthusiast and love to learn and explore web technologies. I have completed my B.Sc. degree in computer science and engineering at City University in 2020. I am a junior web developer. Currently, I am exploring React, Node.js, MongoDB and React Native also.
+I am Abdul Matin Rafi, A tech enthusiast and love to learn and explore web technologies. I have completed my B.Sc. degree in Computer Science and Engineering at City University in 2020. I am a junior web developer. Currently, I am exploring React, Node.js, MongoDB and React Native also.
 
-Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / ES6 / API / React / React Router / Node.js / Express.js / MongoDB / Firebase
+Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / ES6 / Rest API / React.js / React Router 6 / Node.js / Express.js / MongoDB / Firebase
 
 - 🔭 I’m currently working on My Projects 
 - 🌱 I’m currently learning React 
