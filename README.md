@@ -1,7 +1,7 @@
 ![Web Developer](https://media-exp2.licdn.com/dms/image/C5616AQEHvPXoRQyrQw/profile-displaybackgroundimage-shrink_200_800/0/1654736115733?e=1660176000&v=beta&t=Lbw91kH0bOEDf_DNCu_PdBxIR1_pTqr3JfCKkKkw3uc)
 
 ### Hi there 👋, I'am Abdul Matin Rafi
-#### Web Developer
+#### Software Developer
 
 
 I am Abdul Matin Rafi, A tech enthusiast and love to learn and explore web technologies. I have completed my B.Sc. degree in Computer Science and Engineering at City University in 2020. I am a junior web developer. Currently, I am exploring React, Node.js, MongoDB and React Native also.
